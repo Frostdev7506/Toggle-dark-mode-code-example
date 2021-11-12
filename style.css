@@ -40,12 +40,14 @@ p {
     text-align: center;
 }
 
+/* button toggle div */
 .toggle-btn{
     margin-top: 10em;
   text-align: center;
    
 }
 
+/* button toggle button */
 .btn-toggle{
 font-size: 20px;
 background-color: var(--bkg-color);
